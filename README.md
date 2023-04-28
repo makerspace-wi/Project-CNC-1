@@ -5,7 +5,7 @@ Documentation Repository for the CNC-1
 Die CNC-1 ist eine DIY-CNC-Fräse erbaut von Klaus Fillbach mit folgenden Bearbeitungsparametern:
 
 * X-Achse 500mm
-* Y-Achse 830mm
+* Y-Achse 830mm - 2 Stepper Motoren
 * Z-Hub 110mm
 
 
