@@ -14,4 +14,4 @@ Dabei ist die Entscheidung gefallen, dass die Fräse in erster Linie mit Estlcam
 Nach Abschluss der Umbauarbeiten soll dann - alternativ - auch wieder die Nutzung von UCCNC möglich sein.
 
 
-[Zum Wiki](/Project-CNC-1/wiki)
+[Zum Wiki](https://github.com/makerspace-wi/Project-CNC-1/wiki)
