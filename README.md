@@ -14,4 +14,4 @@ Dabei ist die Entscheidung gefallen, dass die Fräse in erster Linie mit Estlcam
 Nach Abschluss der Umbauarbeiten soll dann - alternativ - auch wieder die Nutzung von UCCNC möglich sein.
 
 
-[Link to the UCCNC-Documentation](http://www.cncdrive.com/UCCNC/UCCNC_usersmanual.pdf)
+[Zum Wiki](http://www.cncdrive.com/UCCNC/UCCNC_usersmanual.pdf)
