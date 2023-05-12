@@ -10,7 +10,7 @@ Die CNC-1 ist eine DIY-CNC-Fräse erbaut von Klaus Fillbach mit folgenden Bearbe
 * wassergekühlte Spindel 2,2kW
 
 Die CNC-1 wurde nach verschiedenen Problemen in Q1-2023 vom Makerspace Technikteam modifiziert.<br>
-Dabei ist die Entscheidung gefallen, dass die Fräse in erster Linie mit [Estlcam](http://estlcam.de) (V. 11 später V.12) gesteuert wird. Estlcam deshalb, da wesentlich einfacher verständlich und auch bereis für die CNC-2 im Einsatz ist.<br>
+Dabei ist die Entscheidung gefallen, dass die Fräse in erster Linie mit [Estlcam](http://estlcam.de) (momentan Version 11 später Version 12) gesteuert wird. Estlcam deshalb, da wesentlich einfacher verständlich und auch bereis für die CNC-2 im Einsatz ist.<br>
 Nach Abschluss der Umbauarbeiten soll dann - alternativ - auch wieder die Nutzung von UCCNC möglich sein.
 
 
