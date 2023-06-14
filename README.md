@@ -1,6 +1,5 @@
-# Project-CNC-1
-Documentation Repository for the CNC-1
-![IMG_2141](https://user-images.githubusercontent.com/42463588/234563722-ebce8eec-f9d5-4fcc-b60c-65744e77b4dc.jpg)
+# Documentation Repository for Project-CNC-1
+<img src="https://github.com/makerspace-wi/Project-CNC-1/assets/42463588/eccbaa0b-0de1-46ad-8d1d-32c3131a1db2" width="500px"><br>
 ## Overview
 Die CNC-1 ist eine DIY-CNC-Fräse erbaut von Klaus Fillbach mit folgenden Bearbeitungsparametern:
 
@@ -14,7 +13,7 @@ Dabei ist die Entscheidung gefallen, dass die Fräse in erster Linie mit [Estlca
 Nach Abschluss der Umbauarbeiten soll dann - alternativ - auch wieder die Nutzung von UCCNC möglich sein.
 
 ### Einweisungen
-Die CNC1-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist am Anfang sehr komplex, daher sollte unbedingt ein Projekt vorhanden sein und die Einweisung erfolgt daher auch in zwei Teilen.
+Die CNC1-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die Bedienung ist am Anfang sehr komplex, daher sollte unbedingt ein Projekt vorhanden sein und die Einweisung erfolgt daher auch in mehreren Teilen.
 - Der erste Teil besteht aus Vorführung der Fräse mit Erklärung über das vorhandene Projekt.
 - Beim zweiten Teile fräst der Benutzer sein eigenes Projekt und wird dabei von dem Einweiser unterstützt.
 
