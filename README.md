@@ -1,6 +1,6 @@
 # Project-CNC-1
 Documentation Repository for the CNC-1
-![IMG_2141](https://user-images.githubusercontent.com/42463588/234563722-ebce8eec-f9d5-4fcc-b60c-65744e77b4dc.jpg)
+![IMG_2413](https://github.com/makerspace-wi/Project-CNC-1/assets/42463588/eccbaa0b-0de1-46ad-8d1d-32c3131a1db2)
 ## Overview
 Die CNC-1 ist eine DIY-CNC-Fräse erbaut von Klaus Fillbach mit folgenden Bearbeitungsparametern:
 
