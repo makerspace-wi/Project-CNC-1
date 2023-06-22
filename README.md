@@ -9,9 +9,9 @@ Dies ermöglicht einen einfacheren Einsteig und macht die Fräse für eine breit
 Nach Abschluss der Umbauarbeiten soll dann - alternativ - auch wieder die Nutzung von UCCNC möglich sein.
 #### Technische Daten:
 
-* X-Achse mit 1x Schrittmotoren Nema 23 ??Nm und ????er Kugelumlaufspindeln
-* Y-Achse mit 2x Schrittmotoren Nema 23 ??Nm und ????er Kugelumlaufspindeln
-* Z-Achse mit 1x Schrittmotoren Nema 23 ??Nm und ????er Kugelumlaufspindeln
+* X-Achse mit 1x Nema 23 ??Nm und ????er Kugelumlaufspindeln
+* Y-Achse mit 2x Nema 23 ??Nm und ????er Kugelumlaufspindeln
+* Z-Achse mit 1x Nema 23 ??Nm und ????er Kugelumlaufspindeln
 * Wassergekühlte 2,2kW Frässpindel mit ER20 Spannzangenaufnahme (max. Fräserdurchmesser 13mm)
 
 #### Arbeitsfläche:
