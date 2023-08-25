@@ -43,5 +43,5 @@ Die CNC1-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 - Einrichten und fräsen des eigenen Projektes mit Unterstützung des Einweisers
 - *Freischaltung nach 2. eigenständigem Projekt ???*
 
-## Details zur Bedienung, Einrichtung & Wartung können im Wiki nachgeschlagen werden.<br> !!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!
-## [Zum Wiki](https://github.com/makerspace-wi/Project-CNC-1/wiki)
+### Details zur Bedienung, Einrichtung & Wartung können im Wiki nachgeschlagen werden.<br> !!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!
+### [Zum Wiki](https://github.com/makerspace-wi/Project-CNC-1/wiki)
