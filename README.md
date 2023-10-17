@@ -1,5 +1,5 @@
 # Dokumentation CNC-1
-<img src="https://github.com/makerspace-wi/Project-CNC-1/assets/42463588/65f8d079-08fb-409d-955e-3524b603bae8" width="500px"><br>
+<img src="images/IMG_2640.jpg" width="800px"><br>
 ## Überblick
 Die CNC-1 ist eine DIY-CNC-Fräse erbaut von Klaus Fillbach.
 
@@ -9,7 +9,7 @@ Dies ermöglicht einen einfacheren Einsteig und macht die Fräse für eine breit
 Nach Abschluss der Umbauarbeiten soll dann - alternativ - auch wieder die Nutzung von UCCNC möglich sein.
 #### Technische Daten:
 
-* X-Achse mit 1x Nema 23 ??Nm & ????er KUS & 1x mech. Endstopp (min)
+* X-Achse mit 1x Nema 23 ??Nm & ????er KUS & 2x mech. Endstopp (min & max)
 * Y-Achse mit 2x Nema 23 ??Nm & ????er KUS & 2x mech. Endstopp (min & max)
 * Z-Achse mit 1x Nema 23 ??Nm & ????er KUS & 2x mech. Endstopp (min & max)
 * Wassergekühlte 2,2kW Frässpindel mit ER20 Spannzangenaufnahme (max. Fräserdurchmesser 13mm)
@@ -43,5 +43,5 @@ Die CNC1-Fräse kann nur nach Einweisung und Freischaltung benutzt werden. Die B
 - Einrichten und fräsen des eigenen Projektes mit Unterstützung des Einweisers
 - *Freischaltung nach 2. eigenständigem Projekt ???*
 
-## Details zur Bedienung, Einrichtung & Wartung können im Wiki nachgeschlagen werden.<br> !!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!
-## [Zum Wiki](https://github.com/makerspace-wi/Project-CNC-1/wiki)
+### Details zur Bedienung, Einrichtung & Wartung können im Wiki nachgeschlagen werden.<br> !!! Bei Unsicherheiten in der Bedienung BITTE IMMER einen Einweiser kontaktieren !!!
+### [Zum Wiki](https://github.com/makerspace-wi/Project-CNC-1/wiki)
